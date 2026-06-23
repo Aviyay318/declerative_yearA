@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
@@ -9,9 +6,22 @@ public class Main {
     public static void main(String[] args) {
 
 
-        List<Street> street = new ArrayList<>();
-        //כתבו פונקציה שמקבלת רשימה של רחובות ומחזירה את רשימת שמות הערים שהרחוב מתחיל באות
-        // A
+
+
+
+
+
+
+
+
+
+
+
+        Map<String,Student> studentMap = new HashMap<>();
+
+       studentMap.get("1111111");
+
+
 
     }
 

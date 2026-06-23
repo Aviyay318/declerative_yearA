@@ -2,7 +2,7 @@ public class Student {
     private String name;
     private int age;
     private Street street;
-
+    private String id;
 
     public String getName() {
         return name;
