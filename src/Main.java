@@ -8,6 +8,9 @@ public class Main {
     Set<String> mySet = new HashSet<>();
 
 
+Integer x = 5;
+
+Long c= Long.valueOf(x);
 
 
 
